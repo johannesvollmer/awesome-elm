@@ -316,9 +316,9 @@ You can find hundreds of high quality packages at:
 
 ## Run Elm
 
-* [Ellie](https://ellie-app.com/) - The Elm Live Editor
-* [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor
-* [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line
+* [Ellie](https://ellie-app.com/) - The Elm Live Editor.
+* [Elm Editor](https://elm-editor.com/) - Advanced Elm Live Editor.
+* [run-elm](https://github.com/jfairbank/run-elm) — Run Elm code from the command line.
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 * [Glitch](https://glitch.com/search?q=elm&activeFilter=project) - Build fast, full-stack web apps in your browser.
 * [Elm Live](https://elm-live.com/) - A flexible dev server for Elm. Live reload included!
@@ -355,8 +355,8 @@ You can find hundreds of high quality packages at:
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 * [Html to Elm](https://html-to-elm.com/) - Convert HTML to Elm.
-* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
-* [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm
+* [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm.
+* [Litvis](https://github.com/gicentre/litvis) - Literate Visualization with Elm.
 
 **[:top: back to top](#table-of-contents)**
 
@@ -385,7 +385,7 @@ You can find hundreds of high quality packages at:
 ### Sublime Text
 
 * [LSP-elm](https://github.com/sublimelsp/LSP-elm) - Elm Language Server for Sublime (Recommended).
-* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) - Language server implementation for Elm.
 * [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - Syntax Highlighting for Elm in Sublime Text.
 * [Elm Format on Save](https://github.com/evancz/elm-format-on-save) - Sublime Text plugin to run elm-format on save.
 
@@ -417,7 +417,7 @@ You can find hundreds of high quality packages at:
 
 * [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa) / [Video](https://youtu.be/RN2_NchjrJQ)
-* [Elm Example App](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics
+* [Elm Example App](https://github.com/sporto/elm-example-app) - A small SPA example in Elm to learn the basics.
 * [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 * [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
@@ -433,13 +433,14 @@ You can find hundreds of high quality packages at:
 * [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
 * [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - Chrome extension built in Elm that shows the bitcoin value in all Brazilian exchanges.
 * [Elmstagram](https://github.com/bkbooth/Elmstagram) - Basic UI Clone of Instagram / Articles - [Part 1](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
-* [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API
+* [Kanban Board in Elm](https://github.com/huytd/kanelm) - A kanban board (trello-alike) built with Elm and HTML5 Drag & Drop API.
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - Pure SPA (with routing) exploring various aspects of Elm.
-* [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API
+* [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) - A progressive web app built with Elm version 0.18, using the official Hacker-News API.
 * [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine) - A framework for building interactive fiction style stories in Elm. Detailed example [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
 * [Ari's Garden](https://github.com/theiceshelf/arisgarden) - A recipe [site](https://arisgarden.theiceshelf.com/) built as an SPA that also makes use of the Elm parser.
 * [Bolster](https://github.com/tarbh-engineering/journal) - An end-to-end encrypted journal app.
 * [Conway's Game of Life](https://github.com/pecheneg2015/elm-conway-life) - Elm implementation of Conway's Game of Life. **Elm v.0.19**
+* [Regex Nodes](https://johannesvollmer.com/regex-nodes/) - A node-based visual editor for fiddling with regular expressions, built with Elm.
 
 ### Games
 
